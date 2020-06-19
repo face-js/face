@@ -11,13 +11,13 @@ hero:
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: Web 开发标准
-    desc: 以 Web 开发为标准, 提供多端适配的能力, 零成本构建多端应用
+    desc: 以 Web 开发为标准, 提供多端适配的 React 组件, 无缝衔接 React 生态, 零成本构建多端应用
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png
     title: 高容量
-    desc: 更考究的代码实现, 以最小的代码量呈现更完美的体验
+    desc: 更考究的代码实现, 以最小的代码量呈现更快、更完美的体验
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: 开箱即用
-    desc: 全面支持 TypeScript 提供整套工程化解决方案, 一键开发/调试/部署
+    desc: 全面支持 TypeScript 智能类型推导, 提供整套工程化解决方案, 一键开发/调试/部署
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org/)
 ---
 
