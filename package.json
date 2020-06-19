@@ -1,5 +1,5 @@
 {
-  "name": "facejs-docs",
+  "name": "facejs",
   "version": "1.0.0",
   "description": "Facejs 官方文档",
   "main": "index.js",
@@ -9,5 +9,9 @@
   "private": true,
   "devDependencies": {
     "dumi": "^1.0.31"
+  },
+  "scripts": {
+    "dev": "npx dumi dev",
+    "build": "npx dumi build"
   }
 }
