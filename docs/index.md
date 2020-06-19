@@ -17,7 +17,7 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: 开箱即用
     desc: 全面支持 TypeScript 提供整套工程化解决方案, 一键开发/调试/部署
-footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by self
+footer: Open-source MIT Licensed | Copyright © 2020-present<br />Powered by self
 ---
 
 ## 组件展示
@@ -25,7 +25,8 @@ footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by sel
 <div style="display: flex; justify-content: space-between;">
 <div>
 <h3>Web</h3>
-<div style="border-top:30px solid #000; border-bottom: 40px solid #000; border-left: 20px solid #000; border-right: 20px solid #000; border-radius: 24px; width: 375px; height: 667px"></div>
+<div style="border-top:30px solid #000; border-bottom: 40px solid #000; border-left: 20px solid #000; border-right: 20px solid #000; border-radius: 24px; width: 375px; height: 667px">
+<iframe src="https://face-js.github.io/web/extension.html" style="border: none; width: 375px; height: 667px;"></iframe> </div>
 </div>
 
 <div>
