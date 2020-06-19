@@ -3,7 +3,8 @@ title: facejs - 基于 Remax 的多端研发体系
 order: 10
 hero:
   title: Facejs
-  desc: 基于 Remax 的多端研发体系
+  desc: <div style="display:flex; justify-content:center; align-items:center;"><div style="padding-right:10px;">基于 Remax 的多端研发体系</div><iframe src="https://ghbtns.com/github-btn.html?user=face-js&repo=face&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub" style="margin-top:3px;"></iframe></div>
+
   actions:
     - text: 敬请期待
       link: /
