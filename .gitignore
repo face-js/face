@@ -1,0 +1,4 @@
+node_modules/
+.umi
+dist/
+.DS_Store
