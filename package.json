@@ -1,0 +1,13 @@
+{
+  "name": "facejs-docs",
+  "version": "1.0.0",
+  "description": "Facejs 官方文档",
+  "main": "index.js",
+  "repository": "git@github.com:face-js/website.git",
+  "author": "noyobo <noyobo@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "dumi": "^1.0.31"
+  }
+}
